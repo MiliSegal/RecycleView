@@ -21,5 +21,19 @@ public class MyData {
             R.drawable.brandon, R.drawable.riven, R.drawable.skyyy, R.drawable.icyy,
             R.drawable.darcyy, R.drawable.stormy, R.drawable.kiko};
 
+    static String[] sumArray={
+            "Name: Bloom\n Fairy Name: Fairy of Fire\n From: Earth\n Age: 16 (season1)\n Power: The Dragon Flame",
+            "Name: Flora\n Fairy Name: Fairy of Flowers\n From: Planet Linphea\n Age: 16 (season1)\n Power: Nature - Plants and Flowers",
+            "Name: Stella\n Fairy Name: Fairy of the Sun and Moon\n From: Planet Solaria\n Age: 17 (season1)\n Power: the sun, moon, and stars",
+            "Name: Brandon\n From: Eraklyon\n Age: 17 (season1)\n Girlfriend: Stella",
+            "Name: Riven\n From: Eraklyon\n Age: 17 (season1)\n Girlfriend: Musa",
+            "Name: Sky\n From: Eraklyon\n Age: 17 (season1)\n Girlfriend: Bloom",
+            "Name: Icy\n From: Eraklyon\n Age: 20 (season1)\n Power: ice",
+            "Name: Darcy\n From: Eraklyon\n Age: 17 (season1)\n Power: darkness",
+            "Name: Stormy\n From: Eraklyon\n Age: 16 (season1)\n Power: storms",
+            "Name: Kiko\n From: Earth\n Age: 5 (season1)\n Owner: Bloom"
+    };
+
     static Integer[] id_ = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+
 }

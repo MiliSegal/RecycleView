@@ -4,11 +4,13 @@ public class DataModel {
     private String name;
     private String version;
     private int image;
+    private String summery;
 
-    public DataModel(String name, String version, int image) {
+    public DataModel(String name, String version, int image, String summery) {
         this.name = name;
         this.version = version;
         this.image = image;
+        this.summery=summery;
     }
 
     public String getName() {
@@ -34,6 +36,9 @@ public class DataModel {
     public void setImage(int image) {
         this.image = image;
     }
+    public String getSummery() { return summery; }
+
+    public void setSummery(String summery) { this.summery = summery; }
 }
 
 
